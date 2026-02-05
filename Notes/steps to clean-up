@@ -1,0 +1,29 @@
+# AWS Resource Cleanup Steps
+
+All AWS resources created for this project were deleted to avoid charges.
+
+## Resources Deleted
+
+- CloudFront Distribution (disabled first)
+
+- Application Load Balancer
+
+- Target Groups
+
+- Auto Scaling Group
+
+- EC2 Instances
+
+- NAT Gateway
+
+- Elastic IPs
+
+- Security Groups
+
+- Subnets
+
+- VPC
+
+## Reason
+
+This demonstrates cost awareness and responsible cloud usage.
